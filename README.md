@@ -1,4 +1,4 @@
-# Human Stress Prediction
+# Human Stress Prediction
 
 ## 💽 데이터 소개
 - Kaggle Human Stress Prediction 데이터셋
